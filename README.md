@@ -1,9 +1,9 @@
 # Invoke-WindowsCleanup.ps1
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-5391FE?logo=powershell)
-![Last Commit](https://img.shields.io/github/last-commit/Ci303/Invoke-WindowsCleanup?label=last%20commit)
-![License](https://img.shields.io/github/license/Ci303/Invoke-WindowsCleanup)
-![Issues](https://img.shields.io/github/issues/Ci303/Invoke-WindowsCleanup?label=open%20issues)
+![Last Commit](https://img.shields.io/github/last-commit/noswimmingplease/Invoke-WindowsCleanup?label=last%20commit)
+![License](https://img.shields.io/github/license/noswimmingplease/Invoke-WindowsCleanup)
+![Issues](https://img.shields.io/github/issues/noswimmingplease/Invoke-WindowsCleanup?label=open%20issues)
 
 ## Purpose
 
@@ -46,7 +46,7 @@ Interactive execution only. Review logs and run in a controlled environment befo
 
 ## Support and contribution
 
-- Issues and feature requests: [GitHub Issues](https://github.com/Ci303/Invoke-WindowsCleanup/issues)
+- Issues and feature requests: [GitHub Issues](https://github.com/noswimmingplease/Invoke-WindowsCleanup/issues)
 - Security concerns: [SECURITY.md](./SECURITY.md)
 - Contribution guidelines: [CONTRIBUTING.md](./CONTRIBUTING.md)
 
